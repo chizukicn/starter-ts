@@ -39,7 +39,7 @@
     "lint-staged": "^13.2.3",
     "simple-git-hooks": "^2.8.1",
     "typescript": "^5.1.6",
-    "unbuild": "^1.2.1",
+    "unbuild": "^2.0.0",
     "vitest": "^0.33.0"
   },
   "simple-git-hooks": {
