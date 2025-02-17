@@ -1,3 +1,7 @@
 import { curev } from "@curev/eslint-config";
 
-export default curev();
+export default curev({
+  ignores: [
+    "*.md",
+  ]
+});
