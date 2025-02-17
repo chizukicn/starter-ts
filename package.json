@@ -24,7 +24,7 @@
   "scripts": {
     "build": "unbuild",
     "dev": "vitest dev",
-    "lint": "eslint --cache -f mo --ext .ts,.js,.mjs,.cjs .",
+    "lint": "eslint --cache -f mo",
     "lint:fix": "pnpm lint --fix",
     "prepare": "npx simple-git-hooks",
     "prepack": "pnpm run build",
