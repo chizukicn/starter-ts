@@ -37,7 +37,7 @@
     "@curev/eslint-config": "^0.6.2",
     "@vitest/coverage-v8": "^4.1.0",
     "changelogen": "^0.6.2",
-    "eslint": "^9.39.4",
+    "eslint": "^10.0.3",
     "eslint-formatter-mo": "^2.4.1",
     "lint-staged": "^16.3.3",
     "nolyfill": "^1.0.44",
